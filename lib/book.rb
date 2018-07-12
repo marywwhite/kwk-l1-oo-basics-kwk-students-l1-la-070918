@@ -27,3 +27,5 @@ class Element
   end
 
 end
+
+hydrogen = Element.new("Hydrogen",1)
